@@ -1,0 +1,7 @@
+Things to add:
+
+- power rule with negative exponents
+- product rule
+- quotient rule
+- trigonometric differentiation
+- logarithmic exponential functions
